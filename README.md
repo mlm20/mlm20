@@ -2,7 +2,7 @@
 
 **I'm Maximilian / Max**
 
--   Third year Design Engineering Student at the pioneering Dyson School of Design Engineering at Imperial College London.
+-   Final year Design Engineering (MEng) Student at the pioneering Dyson School of Design Engineering at Imperial College London.
 -   I fuse creative design thinking with rigorous engineering knowledge and practice.
 -   Multidisciplinary skills developed through the practical application of learning via project work, often within collaborative teams.
 -   The interdisciplinary nature of the degree allows me to find connected solutions to real world problems.
