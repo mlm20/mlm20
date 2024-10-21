@@ -15,6 +15,7 @@ During my studies, I was elected Events Officer and later President of Imperial'
 After graduating in August 2024, I am looking for hardware and software engineering opportunities.
 
 **Linkedin:** [link](https://www.linkedin.com/in/maximilian-matthews/)
+
 **Portfolio Website:** [link](http://mlm20.github.io/)
 
 
