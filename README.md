@@ -2,24 +2,18 @@
 
 **I'm Maximilian / Max**
 
--   Final year Design Engineering (MEng) Student at the pioneering Dyson School of Design Engineering at Imperial College London.
--   I fuse creative design thinking with rigorous engineering knowledge and practice.
--   Multidisciplinary skills developed through the practical application of learning via project work, often within collaborative teams.
--   The interdisciplinary nature of the degree allows me to find connected solutions to real world problems.
+As a 2024 MEng graduate of Imperial College London, my expertise in design engineering allows me to integrate technology, design, and business to create products and technology that solve genuine problems.
+
+At Imperial College, I developed expertise in subjects such as physical computing, mechatronics, full-stack development, machine learning, human-centred design, innovation and entrepreneurship, and project management.
+
+During a 6-month internship at REHAU New Ventures, the corporate venture builder of the REHAU Group, a €3.4B turnover global German Mittelstand company, I developed experience in entrepreneurial business and innovation management as well as agile project management. Living abroad in Germany helped me further develop my business language skills and cultural fluency.
+
+I completed 11 team-based and 10 individual engineering projects throughout my MEng, gaining experience managing time, resources, and tight deadlines. I'm skilled at working with others to take projects from brief to deliverable through engineering processes, hardware and software prototyping, design, and validation. I quickly pick up and use new skills and software to meet project goals successfully.
+
+During my studies, I was elected Events Officer and later President of Imperial's LGBT society, leading a 12-member team, managing finances, and organising weekly events. I also served as Events Officer and DJ Tutor for Imperial's electronic music society, performing at London venues and teaching new members. I was awarded Union Colours for my contribution to student life.
+
+After graduating in August 2024, I am looking for hardware and software engineering opportunities.
 
 **Linkedin:** [link](https://www.linkedin.com/in/maximilian-matthews/)
 
-<!--
-**mlm20/mlm20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
