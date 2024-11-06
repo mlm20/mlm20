@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Maximilian / Max**
+**I'm Max**
 
 As a 2024 MEng graduate of Imperial College London, my expertise in design engineering allows me to integrate technology, design, and business to create products and technology that solve genuine problems.
 
@@ -12,7 +12,7 @@ I completed 11 team-based and 10 individual engineering projects throughout my M
 
 During my studies, I was elected Events Officer and later President of Imperial's LGBT society, leading a 12-member team, managing finances, and organising weekly events. I also served as Events Officer and DJ Tutor for Imperial's electronic music society, performing at London venues and teaching new members. I was awarded Union Colours for my contribution to student life.
 
-After graduating in August 2024, I am looking for hardware and software engineering opportunities.
+After graduating in August 2024, I am looking for engineering and product management opportunities.
 
 **Linkedin:** [link](https://www.linkedin.com/in/maximilian-matthews/)
 
