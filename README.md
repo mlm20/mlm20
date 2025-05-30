@@ -2,7 +2,9 @@
 
 **I'm Max**
 
-As a 2024 MEng graduate of Imperial College London, my expertise in design engineering allows me to integrate technology, design, and business to create products and technology that solve genuine problems.
+I'm a Product Engineer at Terra API and a 2024 MEng graduate of Imperial College London.
+
+By integrating technology, design, and engineering I build things that solve genuine user problems.
 
 At Imperial College, I developed expertise in subjects such as physical computing, mechatronics, full-stack development, machine learning, human-centred design, innovation and entrepreneurship, and project management.
 
