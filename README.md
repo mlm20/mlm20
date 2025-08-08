@@ -11,9 +11,3 @@ At Imperial I was also very active in student life (awarded Union Colours). I wa
 During my degree I did a 6 month internship in Germany at REHAU New Ventures, the corporate venture builder of a €3.4B turnover Mittelstand firm. The work was fully in German and I picked up a bunch of useful venture and entrepreneurship skills.
 
 tl;dr, I like building cool stuff :)
-
-**Linkedin:** [link](https://www.linkedin.com/in/maximilian-matthews/)
-
-**Portfolio Website:** [link](http://mlm20.github.io/)
-
-
